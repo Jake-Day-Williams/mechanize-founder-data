@@ -38,6 +38,4 @@ search_terms.each do |term|
   
 end
 
-
-
 # Now run the file in the terminal. $ ruby mechanize.rb
